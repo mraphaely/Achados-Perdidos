@@ -25,14 +25,14 @@ padding-top: 40px;
 export const Titulo = styled.h1`
 color: ${Cor.White};
 font-size: 48px;
-background-color: ${Cor.Green};
+background-color: #00000000;
 `
 
 export const Ra = styled.h4`
 color: white;
 font-size: 20px;
 padding-left: 38px;
-background-color: ${Cor.Green};
+background-color: #00000000;
 margin-top: 28px;
 margin-right: 40px;
 `
